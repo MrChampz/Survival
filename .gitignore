@@ -1,0 +1,18 @@
+##########################
+# Unreal Generated Files #
+##########################
+*/Build
+*/Intermediate
+*/Packaged
+*/Saved
+Survival/Content/InfinityBladeGrassLands/
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.VC.opendb
+*.ipch
+*.suo
